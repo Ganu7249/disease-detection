@@ -3,3 +3,4 @@ tensorflow==2.13.0
 numpy==1.23.0
 pandas==2.0.0
 streamlit==1.39.0
+time
