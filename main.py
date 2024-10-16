@@ -2,7 +2,6 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 from streamlit_option_menu import option_menu
-from englisttohindi.englisttohindi import EngtoHindi
 import time
 
 st.set_page_config(page_title='Detect!t',page_icon="./letter-d.png",initial_sidebar_state="auto")
